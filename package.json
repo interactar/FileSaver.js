@@ -1,0 +1,24 @@
+{
+  "name": "file-saver",
+  "version": "0.1.0",
+  "description": "FileSaver polyfill",
+  "main": "FileSaver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interactar/FileSaver.js.git"
+  },
+  "keywords": [
+    "saveAs",
+    "file-saver",
+    "FileSaver.js"
+  ],
+  "author": "https://github.com/eligrey/FileSaver.js",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/interactar/FileSaver.js/issues"
+  },
+  "homepage": "https://github.com/interactar/FileSaver.js#readme"
+}
