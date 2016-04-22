@@ -1,7 +1,7 @@
 FileSaver.js
 ============
 
-This version has a release. No changes whould be without a new release.
+This version has a release. the source will not be pushed to the repo without a release.
 
 Also contains a package.json to clone via npm.
 
